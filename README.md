@@ -1,2 +1,2 @@
 # kcenter-mobile
-kcenter mobile vuex bug
+kcenter mobile vuex sample
